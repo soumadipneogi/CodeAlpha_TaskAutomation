@@ -1,0 +1,5 @@
+Hello team,
+Please contact support at help@example.com or sales@example.org.
+John's email is john.doe@gmail.com. Another one: JOHN.DOE@gmail.com (duplicate).
+Invalid ones like hello@ or @site.com should be ignored.
+Write to services@codealpha.tech for more details.
